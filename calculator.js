@@ -18,3 +18,7 @@ const printHello = (name) => {
 	console.log(`Hello ${name}`)
 }
 
+const printHello3 = (name) => {
+	console.log(`Hello ${name}`)
+}
+
