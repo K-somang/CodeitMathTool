@@ -10,15 +10,7 @@ const multilpy = (a,b) => {
 	return a*b
 }
 
-const divide = (a,b) => {
+const divide_local_repo = (a,b) => {
 	return a/b
-}
-
-const printHello = (name) => {
-	console.log(`Hello ${name}`)
-}
-
-const printHello3 = (name) => {
-	console.log(`Hello ${name}`)
 }
 
