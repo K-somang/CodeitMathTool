@@ -4,3 +4,13 @@
 	-add
 	-subtract
 	-multiply
+	-divide
+
+	# API
+	## 계산기(calculator.js)
+	### add
+	* 파라미터
+	 - a(Number): 덧셈하고자 하는 수
+	 - b(Number): 덧셈하고자 하는 수
+	 * 응답
+	 - data : 결과
