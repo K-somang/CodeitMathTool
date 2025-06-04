@@ -10,7 +10,7 @@
 	## 계산기(calculator.js)
 	### add
 	* 파라미터
-	 - a(Number): 덧셈하고자 하는 수
-	 - b(Number): 덧셈하고자 하는 수
+	 - a(Number): 뺄셈하고자 하는 수
+	 - b(Number): 뺄셈하고자 하는 수
 	 * 응답
-	 - data : 두 숫자를 덧셈한 결과 값
+	 - data : 두 숫자를 뺄셈한 결과 값
